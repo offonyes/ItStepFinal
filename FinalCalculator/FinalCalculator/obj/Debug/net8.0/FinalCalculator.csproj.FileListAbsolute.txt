@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\bin\Debug\net8.0\FinalCalculator.exe
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\bin\Debug\net8.0\FinalCalculator.deps.json
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\bin\Debug\net8.0\FinalCalculator.runtimeconfig.json
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\bin\Debug\net8.0\FinalCalculator.dll
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\bin\Debug\net8.0\FinalCalculator.pdb
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.AssemblyInfo.cs
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.dll
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\refint\FinalCalculator.dll
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.pdb
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\FinalCalculator.genruntimeconfig.cache
+C:\Users\Dima\source\repos\FinalCalculator\FinalCalculator\obj\Debug\net8.0\ref\FinalCalculator.dll
