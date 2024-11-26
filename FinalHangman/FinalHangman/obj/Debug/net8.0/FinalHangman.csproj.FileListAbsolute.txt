@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\bin\Debug\net8.0\FinalHangman.exe
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\bin\Debug\net8.0\FinalHangman.deps.json
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\bin\Debug\net8.0\FinalHangman.runtimeconfig.json
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\bin\Debug\net8.0\FinalHangman.dll
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\bin\Debug\net8.0\FinalHangman.pdb
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.AssemblyInfo.cs
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.dll
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\refint\FinalHangman.dll
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.pdb
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\FinalHangman.genruntimeconfig.cache
+C:\Users\Dima\source\repos\FinalHangman\FinalHangman\obj\Debug\net8.0\ref\FinalHangman.dll
