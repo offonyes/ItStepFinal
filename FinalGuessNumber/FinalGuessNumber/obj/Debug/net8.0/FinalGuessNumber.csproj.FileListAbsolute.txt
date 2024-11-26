@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\bin\Debug\net8.0\FinalGuessNumber.exe
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\bin\Debug\net8.0\FinalGuessNumber.deps.json
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\bin\Debug\net8.0\FinalGuessNumber.runtimeconfig.json
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\bin\Debug\net8.0\FinalGuessNumber.dll
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\bin\Debug\net8.0\FinalGuessNumber.pdb
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.AssemblyInfo.cs
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.dll
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\refint\FinalGuessNumber.dll
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.pdb
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\FinalGuessNumber.genruntimeconfig.cache
+C:\Users\Dima\source\repos\FinalGuessNumber\FinalGuessNumber\obj\Debug\net8.0\ref\FinalGuessNumber.dll
