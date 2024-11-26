@@ -1,0 +1,14 @@
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfoInputs.cache
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.AssemblyInfo.cs
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.exe
+C:\Users\Dima\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.deps.json
+C:\Users\Dima\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.runtimeconfig.json
+C:\Users\Dima\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.dll
+C:\Users\Dima\source\repos\BookManagement\BookManagement\bin\Debug\net8.0\BookManagement.pdb
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.dll
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\refint\BookManagement.dll
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.pdb
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\BookManagement.genruntimeconfig.cache
+C:\Users\Dima\source\repos\BookManagement\BookManagement\obj\Debug\net8.0\ref\BookManagement.dll
